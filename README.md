@@ -1,4 +1,7 @@
-## Hi there 👋
+## 你好！
+
+
+这里阿某！一个普通高中生（现休学）
 
 <!--
 **daicx0904/daicx0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,10 +28,7 @@ Here are some ideas to get you started:
 <figure><embed src="https://wakatime.com/share/@018d250b-01aa-45d4-a295-0a6b30151e8d/8ba96060-752d-4a9e-8719-a1e9dd8c5ab7.svg"></embed></figure>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daicx0904&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daicx0904&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daicx0904&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daicx0904&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=daicx0904&left_color=green&right_color=red) ![](https://stats.justsong.cn/api/leetcode?Certain-Cat=quanpeng&cn=true)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daicx0904)
